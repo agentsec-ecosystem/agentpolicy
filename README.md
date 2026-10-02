@@ -2,6 +2,8 @@
 
 > **Block / limit** — A Cedar policy decision point that returns allow, deny, ask, rate-limit, or redact for every tool call.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentpolicy/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentpolicy)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
