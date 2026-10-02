@@ -1,7 +1,6 @@
-# <tool-name>
+# agentpolicy
 
-> One-line description of what this tool does and which of the four capabilities it provides
-> (monitor / alert / block-limit / revoke).
+> **Block / limit** — A Cedar policy decision point that returns allow, deny, ask, rate-limit, or redact for every tool call.
 
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
